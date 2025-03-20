@@ -19,13 +19,13 @@
         -> Copy the color mode (HSL)
   */
   --hue: 340;
-  --first-color: hsl(var(--hue), 55%, 55%);
+  --first-color: hsl(162, 55%, 55%);
   --first-color-light: hsl(var(--hue), 55%, 65%);
   --first-color-alt: hsl(var(--hue), 50%, 50%);
   --title-color: hsl(var(--hue), 30%, 95%);
   --text-color: hsl(var(--hue), 20%, 80%);
   --text-color-light: hsl(var(--hue), 20%, 70%);
-  --body-color: hsl(var(--hue), 40%, 16%);
+  --body-color: hsl(211, 89%, 10%);
   --container-color: hsl(var(--hue), 40%, 20%);
 
   /*========== Font and typography ==========*/
